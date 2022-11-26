@@ -27,8 +27,14 @@
     {
       "text": "Watch The Terminal List SN01 Series ",
       "day": "27th November 2022 at 17:00hrs",
-      "reminder": false,
+      "reminder": true,
       "id": 63619
+    },
+    {
+      "text": "Finish Joyce's e-commerce website",
+      "day": "20th December 2022",
+      "reminder": true,
+      "id": 63620
     }
   ]
 }
