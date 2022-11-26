@@ -16,7 +16,19 @@
       "id": "3",
       "text": "Food shopping",
       "day": "March 7th at 2:00pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "id": 63618,
+      "text": "Build a Chess Game in C#",
+      "day": "04th December 2022",
+      "reminder": true
+    },
+    {
+      "text": "Watch The Terminal List SN01 Series ",
+      "day": "27th November 2022 at 17:00hrs",
+      "reminder": false,
+      "id": 63619
     }
   ]
 }

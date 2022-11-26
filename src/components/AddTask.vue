@@ -44,7 +44,7 @@ export default {
 
       // If we have a task, we then create a new task
       const newTask = {
-        id: Math.floor(Math.random() * 100000),
+        // id: Math.floor(Math.random() * 100000),
         text: this.text,
         day: this.day,
         reminder: this.reminder,
