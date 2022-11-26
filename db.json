@@ -35,6 +35,12 @@
       "day": "20th December 2022",
       "reminder": true,
       "id": 63620
+    },
+    {
+      "text": "Begin the KaziQuest Assignment",
+      "day": "27th November 2022 at 17:00hrs",
+      "reminder": true,
+      "id": 63621
     }
   ]
 }
